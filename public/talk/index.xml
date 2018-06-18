@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Recent &amp; Upcoming Talks on Ryan P. Mears, Ph.D.</title>
+    <link>/talk/</link>
+    <description>Recent content in Recent &amp; Upcoming Talks on Ryan P. Mears, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
+    
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>UF Neuroscience Club: Discussion of Interactionist Neuroscience</title>
+      <link>/talk/uf-neuroclub-talk-2017/</link>
+      <pubDate>Tue, 31 Jan 2017 19:00:00 -0500</pubDate>
+      
+      <guid>/talk/uf-neuroclub-talk-2017/</guid>
+      <description> We must train a new generation of neuroscientists that are question driven and not technique limited. This generation should be prepared to take full advantage of data from multiple sources and levels of analysis to address their research hypotheses. The first and most important step in achieving this goal is to conceive of training as centered around questions rather than techniques or levels of analysis.
+ </description>
+    </item>
+    
+  </channel>
+</rss>

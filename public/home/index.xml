@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Ryan P. Mears, Ph.D.</title>
+    <link>/home/</link>
+    <description>Recent content in Homes on Ryan P. Mears, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
+    <lastBuildDate>Thu, 20 Apr 2017 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/home/about/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/about/</guid>
+      <description>Teaching My teaching goals are to help students to develop skills, knowledge frameworks, and quantitative and scientific literacy that will be useful in their future careers.
+ What is the difference between merely knowing (or remembering, or memorizing) and understanding? … A thing or idea seems meaningful only when we have several different ways to represent it–different perspectives and different associations. Then we can turn it around in our minds&amp;hellip;1</description>
+    </item>
+    
+    <item>
+      <title>Academic</title>
+      <link>/home/hero/</link>
+      <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/hero/</guid>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/teaching/</guid>
+      <description>I am a Lecturer for the following courses at University of Florida:
+ Sensory Processes (EXP 3104) Laboratory in Sensory Processes (EXP 4174C) Neuroscience of Consciousness (PSB 4934) Physiological Psychology (PSB 3002)  </description>
+    </item>
+    
+    <item>
+      <title>Neuroscience of Consciousness</title>
+      <link>/home/nsci-ncc/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/nsci-ncc/</guid>
+      <description>Conscious awareness, a hallmark of human experience, is like the exposed tip-of-the-iceberg compared to the concealed, unconscious processes of the brain. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.</description>
+    </item>
+    
+    <item>
+      <title>Sensory Processes</title>
+      <link>/home/sens-proc/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/sens-proc/</guid>
+      <description>This course is an introductory survey of the human senses and their role in perception. A goal of this course is to appreciate that our sensorium receives something different from our resultant awareness and reactions to the world around us. Distributed over and throughout the body, diverse physical sensor arrays receive and transduce signals into neural information. In the pathways of the brain, expansive and hierarchical decoding processes follow the initial sensory encoding.</description>
+    </item>
+    
+    <item>
+      <title>Sensory Processes Laboratory</title>
+      <link>/home/sens-proc-lab/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/sens-proc-lab/</guid>
+      <description>This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment Designing and conducting their replication experiment, students will collect behavioral data, and grapple with producing tables, visualizations, and inferential statistics in order to compare data with experimental results from the original research.</description>
+    </item>
+    
+    <item>
+      <title>Selected Publications</title>
+      <link>/home/publications_selected/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications_selected/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>/home/publications/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/home/talks/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/talks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>/home/posts/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tags</title>
+      <link>/home/tags/</link>
+      <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/home/contact/</link>
+      <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
+      
+      <guid>/home/contact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
