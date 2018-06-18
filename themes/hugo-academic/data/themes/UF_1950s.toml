@@ -1,0 +1,28 @@
+# Theme metadata
+name = "1950s"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "hsl(208.3,42%,59.4%)"
+primary_light = "hsl(28.3,42%,59.4%)"
+primary_dark = "hsl(208.3,42%,49.4%)"
+
+# Menu
+#menu_primary = "rgb(195,149,108)"
+menu_primary = "rgba(225,209,186,1)"
+#menu_primary = "rgba(219,200,172,1)"
+#menu_primary = "rgba(213,191,159,1)"
+#menu_text = "rgba(81, 89, 102,0.5)"
+menu_text = "rgba(114, 114, 114, 0.7)"
+menu_text_active = "#000" 
+menu_title = "#000"
+
+# Backgrounds
+#background = "#f8f5ef"
+#home_section_odd = "#f8f5ef"
+#home_section_even = "#EAE7D6"
+background = "rgba(213,191,159,0)"
+#home_section_odd = "rgba(213,191,159,0.0)"
+#home_section_even = "rgba(213,191,159,0.0)"

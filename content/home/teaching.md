@@ -11,18 +11,15 @@ title = "Teaching"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 60
+weight = 4
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
 
-I am a teaching instructor for the following courses at University X:
+I am a Lecturer for the following courses at University of Florida:
 
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
+- Sensory Processes (EXP 3104)
+- Laboratory in Sensory Processes (EXP 4174C)
+- Neuroscience of Consciousness (PSB 4934)
+- Physiological Psychology (PSB 3002)
+

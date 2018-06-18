@@ -47,7 +47,7 @@ enableGitInfo = false
 [params]
   # Color theme.
   #   Choose from `default`, `ocean`, `forest`, `coffee`, `dark`, or `1950s`.
-  color_theme = "default"
+  color_theme = "UF_1950s"
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
@@ -59,15 +59,15 @@ enableGitInfo = false
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "University of Florida", url = "" } ]
+  organizations = [ { name = "University of Florida", url = "http://www.ufl.edu/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "profile_pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, University of Florida, Gainesville, FL, 32610, USA"
+  email = "mears at ufl dot edu"
+  address = "114 Psychology Building, University of Florida, Gainesville, FL, 32610, USA"
   office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  #skype = "echo123"
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
@@ -115,7 +115,7 @@ enableGitInfo = false
   comment_count = true
 
   # Display next/previous section pager?
-  section_pager = false
+  section_pager = true
 
   # Enable global LaTeX math rendering?
   #   If false, you can enable it locally on a per page basis.
@@ -204,7 +204,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 2
 
   # Social/Academic Networking
   #
@@ -243,7 +243,12 @@ enableGitInfo = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/Mears-UFL"
-
+ 
+  [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Ryan_Mears"
+    
 
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
@@ -256,32 +261,32 @@ enableGitInfo = false
 [[menu.main]]
   name = "Overview"
   url = "#about"
-  weight = 1
+  weight = 2
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 2
+  weight = 10
   
 [[menu.main]]
   name = "Publications"
   url = "#publications_selected"
-  weight = 3
+  weight = 20
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 4
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 25
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 5
+  weight = 30
 
-[[menu.main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 6
+#[[menu.main]]
+#  name = "Contact"
+#  url = "#contact"
+#  weight = 50
 
 # Taxonomies.
 [taxonomies]
