@@ -265,7 +265,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Teaching"
-  url = "#teaching"
+  url = "#courses_taught"
   weight = 10
   
 [[menu.main]]

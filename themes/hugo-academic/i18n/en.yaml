@@ -68,6 +68,9 @@
 
 - id: education
   translation: Education
+  
+- id: training
+  translation: Postdoctoral Training
 
 # Publications widget
 

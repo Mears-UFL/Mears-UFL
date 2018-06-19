@@ -13,6 +13,12 @@ subtitle = "PSB 4934"
 # Order that this section will appear in.
 weight = 5
 
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "fncx-fig-4.png"
+caption = "Neural Integration Networks"
+
 +++
 
 Conscious awareness, a hallmark of human experience, is like the exposed tip-of-the-iceberg compared to the concealed, unconscious processes of the brain. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.

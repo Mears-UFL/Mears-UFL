@@ -534,6 +534,29 @@ ul.ul-edu li .description p.institution {
   color: rgba(0,0,0,0.6);
 }
 
+ul.ul-inst {
+  list-style: none;
+}
+
+ul.ul-inst li {
+  position: relative;
+  padding: 0px 5px 4px 3px;
+}
+
+ul.ul-inst li .description p {
+  margin: 0;
+}
+
+ul.ul-inst li .institution p.course {
+  font-size: 0.9rem;
+}
+
+ul.ul-inst li .description p.institution {
+  font-size: 0.9rem;
+  /*color: rgba(0,0,0,0.6);*/
+}
+
+
 /*************************************************
  *  Sharing
  **************************************************/

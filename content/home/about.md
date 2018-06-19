@@ -12,9 +12,16 @@ weight = 2
   interests = [
     "Affective, Behavioral, and Cognitive Neuroscience",
     "Translational Neuroscience",
-    "Circuits & Systems",
-    "Oscillatory phenomena",
-    "Single-unit/Local field potentials/EEG"
+    "Neural Circuits & Systems",
+    "Developmental neuroscience",
+    "Neual Plasticity",
+    "Dynamical neural systems",
+    "Oscillatory neural phenomena",
+    "Single-unit neuronal spikes",
+    "Local field potentials",
+    "Electroencephalography",
+    "Electrocorticography"
+    
   ]
 
 # List your qualifications (such as academic degrees).
@@ -27,7 +34,18 @@ weight = 2
   course = "B.S. in Psychology"
   institution = "The Ohio State University"
   year = 1999
- 
+
+[[training.institution]]
+  institution = "Wayne State School of Medicine"
+  syear = 2006
+  eyear = 2008
+
+[[training.institution]]
+  institution = "Harvard Medical School"
+  syear = 2008
+  eyear = 2014
+
+
 +++
 
 ## Teaching

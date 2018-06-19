@@ -18,5 +18,10 @@ count = 10
 #   1 = Detailed
 list_format = 1
 
+# View.
+# Customize how projects are displayed.
+# Legend: 0 = list, 1 = cards.
+view = 1
+
 +++
 

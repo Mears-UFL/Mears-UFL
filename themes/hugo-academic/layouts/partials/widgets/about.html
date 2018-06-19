@@ -85,6 +85,21 @@
       </div>
       {{ end }}
 
+      {{ with $page.Params.training }}
+      <div class="col-sm-7">
+        <h3>{{ i18n "training" | markdownify }}</h3>
+        <ul class="ul-inst fa-ul">
+          {{ range .institution }}
+          <li>
+            <i class="fa-li fa fa-university"></i>
+            <div class="description">
+              <p class="institution">{{ .institution }}{{ with .syear }}, {{ . }}{{ end }} - {{ with .eyear }}{{ . }}{{ end }}</p>
+            </div>
+          </li>
+          {{ end }}
+        </ul>
+      </div>
+      {{ end }}
     </div>
   </div>
 </div>

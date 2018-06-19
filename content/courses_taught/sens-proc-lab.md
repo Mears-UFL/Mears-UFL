@@ -4,7 +4,7 @@
 # To create more sections, duplicate this file and edit the values below as desired.
 widget = "custom"
 active = true
-date = 2016-04-20T00:00:00
+date = 2018-08-24T00:00:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Sensory Processes Laboratory"
@@ -12,6 +12,12 @@ subtitle = "EXP 4174C"
 
 # Order that this section will appear in.
 weight = 5
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "Boston_moon.JPG"
+caption = "Distance Scaling"
 
 +++
 

@@ -1,0 +1,30 @@
+{{ $ := .root }}
+{{ $page := .page }}
+{{ $courses_taught_len := len (where $.Site.RegularPages "Type" "courses_taught") }}
+
+<!-- courses_taught widget -->
+<div class="row">
+  <div class="col-xs-12 col-md-4 section-heading">
+    <h1>{{ with $page.Title }}{{ . | markdownify }}{{ end }}</h1>
+    {{ with $page.Params.subtitle }}<p>{{ . | markdownify }}</p>{{ end }}
+    {{ if gt $courses_taught_len $page.Params.count }}
+    <p class="view-all">
+      <a href="{{ ($.Site.GetPage "section" "courses_taught").Permalink }}">
+        {{ i18n "more_courses_taught" | markdownify }}
+        <i class="fa fa-info-circle"></i>
+      </a>
+    </p>
+    {{ end }}
+  </div>
+  <div class="col-xs-12 col-md-8">
+    {{ with $page.Content }}<p>{{ . | markdownify }}</p>{{ end }}
+
+    {{ range first $page.Params.count (sort (where $.Site.RegularPages "Type" "courses_taught") ".Params.time_start" "desc") }}
+      {{ if eq $page.Params.list_format 1 }}
+        {{ partial "courses_taught_li_detailed" . }}
+      {{ else }}
+        {{ partial "courses_taught_li_simple" . }}
+      {{ end }}
+    {{ end }}
+  </div>
+</div>
