@@ -3,17 +3,17 @@
 date = 2018-06-19T00:00:00
 
 # Project title.
-title = "Translational Comparative Neurophysiology: Sensory Gating"
+title = "Translational Neurophysiology"
 
 # Project summary to display on homepage.
-summary = "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+summary = "Comparative neurophysiology of analogous brain anatomy and functions leverages overlapping neurodevelopmental and genetic schemes in humans and animals."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 image_preview = "headers/Hpc_f1a_2007.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["sensory-gating", "translational-neuroscience", "ecog", "single-units", "local-field-potentials","neural-circuits", "neural-systems"]
+tags = ["Sensory-Gating", "Translational-Neuroscience", "LFP", "ECoG", "Circuits", "Systems", "Single-Units"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

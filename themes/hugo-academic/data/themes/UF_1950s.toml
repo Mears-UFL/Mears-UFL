@@ -5,9 +5,9 @@ name = "1950s"
 light = true
 
 # Primary
-primary = "hsl(208.3,42%,59.4%)"
+primary = "hsl(208.3,14.4%,49%)"
 primary_light = "hsl(28.3,42%,59.4%)"
-primary_dark = "hsl(208.3,42%,49.4%)"
+primary_dark = "hsl(210,13.6%,25.9%)"
 
 # Menu
 #menu_primary = "rgb(195,149,108)"
@@ -24,5 +24,5 @@ menu_title = "#000"
 #home_section_odd = "#f8f5ef"
 #home_section_even = "#EAE7D6"
 background = "rgba(213,191,159,0)"
-#home_section_odd = "rgba(213,191,159,0.0)"
-#home_section_even = "rgba(213,191,159,0.0)"
+home_section_odd = "rgba(213,191,159,0.0)"
+home_section_even = "rgba(225,209,186,0.5)"

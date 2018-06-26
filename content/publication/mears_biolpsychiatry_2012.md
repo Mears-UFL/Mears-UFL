@@ -34,7 +34,7 @@ selected = true
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename of your project in `content/project/`.
 #   Otherwise, set `projects = []`.
-projects = ["example-external-project.md"]
+projects = []
 
 # Links (optional).
 url_pdf = "https://mears-ufl-blogdown/files/Mears_BiolPsychiatry_2012.pdf"

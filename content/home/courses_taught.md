@@ -33,11 +33,4 @@ view = 1
 
 +++
 
-
-I am a Lecturer for the following courses at University of Florida:
-
-- Sensory Processes (EXP 3104)
-- Laboratory in Sensory Processes (EXP 4174C)
-- Neuroscience of Consciousness (PSB 4934)
-- Physiological Psychology (PSB 3002)
-
+I am a Lecturer for the following courses at University of Florida:  

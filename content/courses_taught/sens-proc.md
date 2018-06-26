@@ -7,7 +7,7 @@ active = true
 date = 2018-08-22T09:35:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
-title = "Sensory Processes"
+title = "Sensory Processes (EXP 3104)"
 subtitle = "EXP 3104"
 
 # Order that this section will appear in.

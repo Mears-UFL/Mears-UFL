@@ -33,12 +33,32 @@ filter_default = 0
   tag = "*"
 
 [[filter]]
-  name = "Deep Learning"
-  tag = ".deep-learning"
-
+  name = "Sensory Gating"
+  tag = ".sensory-gating"
+  
 [[filter]]
-  name = "Other"
-  tag = ".demo"
+  name = "Oscillations"
+  tag = ".oscillations"
+
+# [[filter]]
+#   name = "EEG"
+#   tag = ".demo"  
+# 
+# [[filter]]
+#   name = "ECoG"
+#   tag = ".demo"  
+# 
+# [[filter]]
+#   name = "Spikes"
+#   tag = ".single-units"  
+# 
+# [[filter]]
+#   name = "ERP"
+#   tag = ".erp"  
+# 
+# [[filter]]
+#   name = "Other"
+#   tag = ".demo"
 
 +++
 

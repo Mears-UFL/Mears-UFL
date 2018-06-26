@@ -1,0 +1,21 @@
+# Theme metadata
+name = "1950s"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "hsl(208.3,42%,59.4%)"
+primary_light = "hsl(28.3,42%,59.4%)"
+primary_dark = "hsl(208.3,42%,49.4%)"
+
+# Menu
+menu_primary = "rgb(195,149,108)"
+menu_text = "rgba(255,239,207,0.5)"
+menu_text_active = "#fff" 
+menu_title = "#fff"
+
+# Backgrounds
+background = "#EAE7D6"
+home_section_odd = "#EAE7D6"
+home_section_even = "#EAE7D6"

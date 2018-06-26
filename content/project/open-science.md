@@ -1,19 +1,19 @@
 +++
 # Date this page was created.
-date = 2018-06-20T00:00:00
+date = 2018-06-25T00:00:00
 
 # Project title.
-title = "Sensory processing in altered states"
+title = "Open Science"
 
 # Project summary to display on homepage.
-summary = "Transitions between states of awareness highlight interactions of different sensory processes and sub-systems."
+summary = "Open science improves reliability, trust and understanding of scientific research."
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "headers/Ketamine_intrinsic_evoked_power.png"
+image_preview = "headers/os_taxonomy.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Translational-Neuroscience", "LFP", "Circuits", "Systems", "NMDA"]
+tags = ["Open Science", "Reproducible Research", "Reproducibility", "Replicability", "Transparency"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""
@@ -23,8 +23,8 @@ math = false
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
-image = "headers/Ketamine_intrinsic_evoked_power.png"
-caption = "Ketamine increases intrinsic gamma power while reducing evoked gamma"
+image = "headers/os_taxonomy.png"
+caption = "A new paradigm for doing science"
 
 +++
 
