@@ -6,16 +6,6 @@
     <url>
     
       <loc>/courses_taught/nsci-ncc/</loc>
-      <lastmod>2018-08-23T13:55:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/courses_taught/sens-proc-lab/</loc>
-      <lastmod>2018-08-23T09:35:00-04:00</lastmod>
     </url>
     
   
@@ -24,7 +14,14 @@
     <url>
     
       <loc>/courses_taught/sens-proc/</loc>
-      <lastmod>2018-08-22T09:35:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/courses_taught/sens-proc-lab/</loc>
     </url>
     
   
@@ -215,6 +212,15 @@
     
     <url>
     
+      <loc>/tags/fmri/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/lfp/</loc>
       <lastmod>2018-06-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -235,6 +241,25 @@
     
     <url>
     
+      <loc>/tags/neural-systems/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/neurology/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/open-science/</loc>
       <lastmod>2018-06-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -245,8 +270,26 @@
     
     <url>
     
+      <loc>/tags/perception/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/project/</loc>
       <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/psychophysics/</loc>
       <priority>0</priority>
     </url>
     
@@ -305,6 +348,15 @@
     
     <url>
     
+      <loc>/tags/sensation/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/sensory-gating/</loc>
       <lastmod>2018-06-19T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -317,16 +369,6 @@
     
       <loc>/tags/single-units/</loc>
       <lastmod>2018-06-19T00:00:00-04:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/tags/systems/</loc>
-      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

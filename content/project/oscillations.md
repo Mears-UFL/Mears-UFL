@@ -13,7 +13,7 @@ image_preview = "headers/Ketamine_intrinsic_evoked_power.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Translational-Neuroscience", "LFP", "Circuits", "Systems", "NMDA"]
+tags = ["Translational-Neuroscience", "LFP", "Circuits", "Neural Systems", "NMDA"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

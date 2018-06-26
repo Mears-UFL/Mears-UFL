@@ -2,13 +2,29 @@
 # Custom widget.
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
-widget = "custom"
+widget = "courses_taught"
 active = true
-date = 2018-08-22T09:35:00
+# date = 2018-08-22T09:35:00
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Sensory Processes (EXP 3104)"
 subtitle = "EXP 3104"
+
+
+# Project title.
+#title = "Translational Neurophysiology"
+
+# Project summary to display on homepage.
+summary = ""
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "eclipse-sm.jpg"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["Translational-Neuroscience", "Circuits", "Neural Systems", "Perception", "Sensation"]
+
+
 
 # Order that this section will appear in.
 weight = 5

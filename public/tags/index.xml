@@ -40,6 +40,15 @@
     </item>
     
     <item>
+      <title>FMRI</title>
+      <link>/tags/fmri/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/fmri/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LFP</title>
       <link>/tags/lfp/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
@@ -58,11 +67,47 @@
     </item>
     
     <item>
+      <title>Neural Systems</title>
+      <link>/tags/neural-systems/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/neural-systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurology</title>
+      <link>/tags/neurology/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/neurology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Open Science</title>
       <link>/tags/open-science/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Perception</title>
+      <link>/tags/perception/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/perception/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Psychophysics</title>
+      <link>/tags/psychophysics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/psychophysics/</guid>
       <description></description>
     </item>
     
@@ -94,6 +139,15 @@
     </item>
     
     <item>
+      <title>Sensation</title>
+      <link>/tags/sensation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/sensation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Sensory-Gating</title>
       <link>/tags/sensory-gating/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
@@ -108,15 +162,6 @@
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
       <guid>/tags/single-units/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Systems</title>
-      <link>/tags/systems/</link>
-      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
-      
-      <guid>/tags/systems/</guid>
       <description></description>
     </item>
     

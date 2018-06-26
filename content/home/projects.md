@@ -32,13 +32,13 @@ filter_default = 0
   name = "All"
   tag = "*"
 
-[[filter]]
-  name = "Sensory Gating"
-  tag = ".sensory-gating"
+#[[filter]]
+#  name = "Sensory Gating"
+#  tag = ".sensory-gating"
   
-[[filter]]
-  name = "Oscillations"
-  tag = ".oscillations"
+#[[filter]]
+#  name = "Oscillations"
+#  tag = ".oscillations"
 
 # [[filter]]
 #   name = "EEG"

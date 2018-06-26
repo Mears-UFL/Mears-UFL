@@ -13,7 +13,7 @@ image_preview = "headers/Hpc_f1a_2007.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["Sensory-Gating", "Translational-Neuroscience", "LFP", "ECoG", "Circuits", "Systems", "Single-Units"]
+tags = ["Sensory-Gating", "Translational-Neuroscience", "LFP", "ECoG", "Circuits", "Neural Systems", "Single-Units"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = ""

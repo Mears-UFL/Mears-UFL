@@ -22,35 +22,5 @@
     <a href="{{ .Permalink }}" itemprop="url">{{ .Title }}</a>
   </h3>
 
-  <div class="courses_taught-metadata" itemprop="startDate">
-    {{ $date := .Params.time_start | default .Date }}
-    {{ (time $date).Format $.Site.Params.date_format }}
-    {{ if $.Site.Params.courses_taught.time }}
-      {{ (time $date).Format ($.Site.Params.time_format | default "3:04 PM") }}
-      {{ with .Params.time_end }}
-        &mdash; {{ (time .).Format ($.Site.Params.time_format | default "3:04 PM") }}
-      {{ end }}
-    {{ end }}
-  </div>
-
-  <div class="courses_taught-metadata">
-    {{ if .Params.event }}
-    {{ .Params.event | markdownify }}
-    {{ else if .Params.event_short }}
-    {{ .Params.event_short | markdownify }}
-    {{ end }}
-  </div>
-
-  <div class="courses_taught-abstract" itemprop="text">
-    {{ if .Params.abstract_short }}
-    {{ .Params.abstract_short | markdownify }}
-    {{ else }}
-    {{ .Params.abstract | markdownify }}
-    {{ end }}
-  </div>
-
-  <div class="courses_taught-links">
-    {{ partial "courses_taught_links" (dict "content" . "is_list" 1) }}
-  </div>
 
 </div>
