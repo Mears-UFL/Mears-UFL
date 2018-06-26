@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translational-Neuroscience on Ryan P. Mears, Ph.D.</title>
+    <link>/tags/translational-neuroscience/</link>
+    <description>Recent content in Translational-Neuroscience on Ryan P. Mears, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
+    <lastBuildDate>Wed, 20 Jun 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/translational-neuroscience/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sensory processing in altered states</title>
+      <link>/project/oscillations/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/oscillations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translational Neurophysiology</title>
+      <link>/project/sensory-gating/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/sensory-gating/</guid>
+      <description>Much work has been done to explore sensory gating in human and animal subjects, yet fewer efforts have been made to apply a rigorous framework to translate findings in preclinical and clinical investigations of sensory gating. A significant obstacle to comparison is the number of the systems of the brain that display sensory gating. Initial discovery of sensory gating of event-related potentials (ERP) in humans corresponded to generators in auditory cortex.</description>
+    </item>
+    
+  </channel>
+</rss>

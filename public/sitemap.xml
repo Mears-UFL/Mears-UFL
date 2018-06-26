@@ -5,6 +5,60 @@
     
     <url>
     
+      <loc>/courses_taught/nsci-ncc/</loc>
+      <lastmod>2018-08-23T13:55:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/courses_taught/sens-proc-lab/</loc>
+      <lastmod>2018-08-23T09:35:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/courses_taught/sens-proc/</loc>
+      <lastmod>2018-08-22T09:35:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/open-science/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/oscillations/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/project/sensory-gating/</loc>
+      <lastmod>2018-06-19T00:00:00-04:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/talk/uf-neuroclub-talk-2017/</loc>
       <lastmod>2017-01-31T19:00:00-05:00</lastmod>
     </url>
@@ -15,6 +69,15 @@
     <url>
     
       <loc>/tags/academic/</loc>
+      <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/courses_taught/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
     </url>
     
@@ -43,24 +106,6 @@
     
       <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/project/example-external-project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
     </url>
     
   
@@ -150,8 +195,8 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>/tags/circuits/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -160,8 +205,38 @@
     
     <url>
     
-      <loc>/tags/demo/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <loc>/tags/ecog/</loc>
+      <lastmod>2018-06-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/lfp/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/nmda/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/open-science/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -171,7 +246,7 @@
     <url>
     
       <loc>/project/</loc>
-      <lastmod>2016-04-27T00:00:00-04:00</lastmod>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -190,6 +265,36 @@
     
     <url>
     
+      <loc>/tags/replicability/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/reproducibility/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/reproducible-research/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/</loc>
       <lastmod>2017-04-20T00:00:00-04:00</lastmod>
       <priority>0</priority>
@@ -200,8 +305,58 @@
     
     <url>
     
+      <loc>/tags/sensory-gating/</loc>
+      <lastmod>2018-06-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/single-units/</loc>
+      <lastmod>2018-06-19T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/systems/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/translational-neuroscience/</loc>
+      <lastmod>2018-06-20T00:00:00-04:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/transparency/</loc>
+      <lastmod>2018-06-25T00:00:00-04:00</lastmod>
       <priority>0</priority>
     </url>
     

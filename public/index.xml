@@ -11,6 +11,72 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Neuroscience of Consciousness (PSB 4934)</title>
+      <link>/courses_taught/nsci-ncc/</link>
+      <pubDate>Thu, 23 Aug 2018 13:55:00 -0400</pubDate>
+      
+      <guid>/courses_taught/nsci-ncc/</guid>
+      <description>&lt;p&gt;Conscious awareness, a hallmark of human experience, is like the exposed tip-of-the-iceberg compared to the concealed, unconscious processes of the brain. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Relevant topics will include&lt;/strong&gt;:&lt;br /&gt;
+&amp;#8226; &lt;em&gt;anesthesia&lt;/em&gt;  &amp;#8226; &lt;em&gt;coma&lt;/em&gt;  &amp;#8226; &lt;em&gt;dreams&lt;/em&gt;&lt;br /&gt;
+&amp;#8226; &lt;em&gt;free-will&lt;/em&gt;  &amp;#8226; &lt;em&gt;hallucinations&lt;/em&gt;&lt;br /&gt;
+&amp;#8226; &lt;em&gt;hallucinogens&lt;/em&gt;  &amp;#8226; &lt;em&gt;illusions&lt;/em&gt;&lt;br /&gt;
+&amp;#8226; &lt;em&gt;imagination&lt;/em&gt;  &amp;#8226; &lt;em&gt;sleep&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensory Processes Laboratory (EXP 4174C)</title>
+      <link>/courses_taught/sens-proc-lab/</link>
+      <pubDate>Thu, 23 Aug 2018 09:35:00 -0400</pubDate>
+      
+      <guid>/courses_taught/sens-proc-lab/</guid>
+      <description>&lt;p&gt;This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment Designing and conducting their replication experiment, students will collect behavioral data, and grapple with producing tables, visualizations, and inferential statistics in order to compare data with experimental results from the original research. In the end, students will judge similarities and differences between the methods and results of their own replication experiment in comparison to the published experiment. In order to apply methods of scientific communication, students will summarize results and experiences, do lab write-ups, present data talks, and write a final paper.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Sensory Processes (EXP 3104)</title>
+      <link>/courses_taught/sens-proc/</link>
+      <pubDate>Wed, 22 Aug 2018 09:35:00 -0400</pubDate>
+      
+      <guid>/courses_taught/sens-proc/</guid>
+      <description>&lt;p&gt;This course is an introductory survey of the human senses and their role in perception. A goal of this course is to appreciate that our sensorium receives something different from our resultant awareness and reactions to the world around us. Distributed over and throughout the body, diverse physical sensor arrays receive and transduce signals into neural information. In the pathways of the brain, expansive and hierarchical decoding processes follow the initial sensory encoding. In the end, perception endeavors to apprehend the true nature of the world “out there” rather than merely encode what the senses take in.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Open Science</title>
+      <link>/project/open-science/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensory processing in altered states</title>
+      <link>/project/oscillations/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/oscillations/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translational Neurophysiology</title>
+      <link>/project/sensory-gating/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/sensory-gating/</guid>
+      <description>&lt;p&gt;Much work has been done to explore sensory gating in human and animal subjects, yet fewer efforts have been made to apply a rigorous framework to translate findings in preclinical and clinical investigations of sensory gating. A significant obstacle to comparison is the number of the systems of the brain that display sensory gating. Initial discovery of sensory gating of event-related potentials (ERP) in humans corresponded to generators in auditory cortex. However, in the animal model, much research focused solely on the limbic system and the thalamus of the rat and mouse.  During my early career, we investigated and expanded the known network of sensory gating structures, elucidating activity in rat prefrontal cortex and basal ganglia.&lt;/p&gt;
+
+&lt;p&gt;This translational framework to compare sensory gating in human and animal subjects required several types of information. An important caveat for a majority of clinical investigation of sensory gating in humans is that the only source of scalp ERPs with sufficient signal to noise fidelity are the ERP generators of the auditory cortex. Sensory gating in numerous neuroanatomical structures require invasive measurement. The invasive approach provides detailed information on the local-circuit components of each brain region. In an invasive intracranial investigation of human hippocampus (Boutros, Mears et al, 2007), we compared our results with prior research of sensory gating in rodent hippocampus.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>UF Neuroscience Club: Discussion of Interactionist Neuroscience</title>
       <link>/talk/uf-neuroclub-talk-2017/</link>
       <pubDate>Tue, 31 Jan 2017 19:00:00 -0500</pubDate>
@@ -21,33 +87,6 @@
 The first and most important step in achieving this goal is to conceive of training as centered around questions rather than techniques or levels of analysis.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Deep Learning</title>
-      <link>/project/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/deep-learning/</guid>
-      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
-
-&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
-
-&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
-
-&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
-
-&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
-      
-      <guid>/project/example-external-project/</guid>
-      <description></description>
     </item>
     
     <item>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducibility on Ryan P. Mears, Ph.D.</title>
+    <link>/tags/reproducibility/</link>
+    <description>Recent content in Reproducibility on Ryan P. Mears, Ph.D.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
+    <lastBuildDate>Mon, 25 Jun 2018 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Open Science</title>
+      <link>/project/open-science/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/project/open-science/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

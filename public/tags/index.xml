@@ -22,20 +22,119 @@
     </item>
     
     <item>
-      <title>Deep-learning</title>
-      <link>/tags/deep-learning/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>Circuits</title>
+      <link>/tags/circuits/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/deep-learning/</guid>
+      <guid>/tags/circuits/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Demo</title>
-      <link>/tags/demo/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      <title>ECoG</title>
+      <link>/tags/ecog/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/demo/</guid>
+      <guid>/tags/ecog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LFP</title>
+      <link>/tags/lfp/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/lfp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NMDA</title>
+      <link>/tags/nmda/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/nmda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Science</title>
+      <link>/tags/open-science/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replicability</title>
+      <link>/tags/replicability/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/replicability/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducibility</title>
+      <link>/tags/reproducibility/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/reproducibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Research</title>
+      <link>/tags/reproducible-research/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/reproducible-research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sensory-Gating</title>
+      <link>/tags/sensory-gating/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/sensory-gating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Single-Units</title>
+      <link>/tags/single-units/</link>
+      <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/single-units/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems</title>
+      <link>/tags/systems/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/systems/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Translational-Neuroscience</title>
+      <link>/tags/translational-neuroscience/</link>
+      <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/translational-neuroscience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Transparency</title>
+      <link>/tags/transparency/</link>
+      <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
+      
+      <guid>/tags/transparency/</guid>
       <description></description>
     </item>
     
