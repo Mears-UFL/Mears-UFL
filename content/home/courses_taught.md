@@ -28,4 +28,6 @@ view = 1
 
 +++
 
+The neuroscience of perception encompasses a wide range of topics including science literacy and self-insight. It's necessary and essential to experience sensory-perceptual phenomena in order to understand sensory-perceptual neuroscience concepts. Understanding the neurobiology, neural circuitry, neural systems, and neurophysiological dynamics that inherently constitute sensory-perceptual phenomena, allows one to apply knowledge and gain unique self-understanding. Neuroscience students have potential to develop a neurobiological, self metaperception as they rediscover and reframe the subtle features, constraints, and capabilities their own perceptual realities.  My objective is to encourage students' self-confidence to address complex issues effectively and to develop abilities to ask meaningful questions that help solve important scientific problems.
+
 I am a Lecturer for the following courses at University of Florida:  
