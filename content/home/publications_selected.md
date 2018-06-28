@@ -31,4 +31,3 @@ list_format = 0
 publication_type = "2"
 +++
 
-Psychology courses that I teach approach sensation, perception, emotional and/or cognitive function from the vantage of clinical neuroscience and aspects of prefrontal cortex physiology. During my research career, a central focus has been to investigate the functional role of the mammalian prefrontal cortex to maintain healthy and flexible emotional learning. These investigations addressed translational neuroscience research questions and utilized neuroscience techniques that are able to span levels of analysis from mesoscopic to macroscopic neuroanatomy and neurophysiology. During adulthood, neuroplasticity takes place on timescales that are longer than days to weeks but shorter than years. The neuroscience of the interplay of trauma, stress, and neuroplasticity has potential to help understand the causes of some mental health dysfunctions and explain the effects of some promising new treatments. 
