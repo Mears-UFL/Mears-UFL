@@ -18,14 +18,14 @@ subtitle = "PSB 4934"
 summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
-image_preview = "fncx-fig-4.png"
+image_preview = "headers/Necker_cube_wide.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
 tags = ["Translational-Neuroscience", "LFP", "ECoG", "Circuits", "Neural Systems", "fMRI", "Neurology", "Perception"]
 
 # Order that this section will appear in.
-weight = 5
+weight = 2
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -43,6 +43,14 @@ Conscious awareness, a hallmark of human experience, is like the exposed tip-of-
 &#8226; *hallucinogens*  &#8226; *illusions*  
 &#8226; *imagination*  &#8226; *sleep* 
 
+**Date & Time**:
 
+- Tuesday, 1:55 - 2:45 PM (7th period)
+- Thursday, 1:55 - ***3:50*** PM (***7-8*** periods)
 
+**Location**: [129 Psychology Building (PSY) ](http://campusmap.ufl.edu/#/index/0749)
 
+**Textbooks**: 
+
+- [Nunez, P. L. (2016). *The New Science of Consciousness: Exploring the Complexity of Brain, Mind, and Self*. Prometheus Books.](https://www.amazon.com/New-Science-Consciousness-Exploring-Complexity/dp/1633882195/)
+- [Dehaene, S. (2014). *Consciousness and the brain: Deciphering how the brain codes our thoughts*. Penguin.](https://www.amazon.com/Consciousness-Brain-Deciphering-Codes-Thoughts/dp/0143126261/)

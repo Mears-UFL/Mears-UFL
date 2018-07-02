@@ -27,7 +27,7 @@ tags = ["Translational-Neuroscience", "Circuits", "Neural Systems", "Perception"
 
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -39,3 +39,8 @@ caption = "Perceptual Inference"
 
 This course is an introductory survey of the human senses and their role in perception. A goal of this course is to appreciate that our sensorium receives something different from our resultant awareness and reactions to the world around us. Distributed over and throughout the body, diverse physical sensor arrays receive and transduce signals into neural information. In the pathways of the brain, expansive and hierarchical decoding processes follow the initial sensory encoding. In the end, perception endeavors to apprehend the true nature of the world “out there” rather than merely encode what the senses take in.
 
+*Date & Time*: Monday, Wednesday & Friday, 9:35 - 10:25 AM (3 period)
+
+*Location*: [130 Psychology Building (PSY) ](http://campusmap.ufl.edu/#/index/0749)
+
+*Textbook*: [Goldstein, E. B. & Brockmole, J. R. (2017). *Sensation and Perception*, 10th Ed. Cengage Learning.](https://www.amazon.com/gp/offer-listing/130558029X/ref=dp_olp_rentals?ie=UTF8&f_rental=true)

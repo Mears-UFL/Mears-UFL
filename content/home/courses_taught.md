@@ -28,4 +28,4 @@ view = 1
 
 +++
 
-I am a Lecturer for the following courses at University of Florida:  
+I am a Lecturer for the following University of Florida courses:  

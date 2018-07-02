@@ -1,0 +1,42 @@
++++
+# Custom widget.
+# An example of using the custom widget to create your own homepage section.
+# To create more sections, duplicate this file and edit the values below as desired.
+widget = "courses_taught"
+active = true
+# date = 2018-08-27T13:25:00
+
+# Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
+title = "Physiological & Comparative Psychology (PSB 6099)"
+subtitle = "Monday 1:55-"
+
+
+# Project title.
+#title = "Translational Neurophysiology"
+
+# Project summary to display on homepage.
+summary = ""
+
+# Optional image to display on homepage (relative to `static/img/` folder).
+image_preview = "fncx-fig-4.png"
+
+# Tags: can be used for filtering projects.
+# Example: `tags = ["machine-learning", "deep-learning"]`
+tags = ["Translational-Neuroscience","Circuits", "Neural Systems", "Perception", "Sensation", "Psychophysics"]
+
+# Order that this section will appear in.
+weight = 3
+
+# Featured image
+# Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
+[header]
+image = "fncx-fig-4.png"
+caption = "Neural Integration Networks"
+
++++
+
+**Date & Time**: Monday, 1:55 - 2:45 PM (7-9 periods)
+
+**Location**: [113 Keene-Flint Hall (FLI) ](http://campusmap.ufl.edu/#/index/0008)
+
+**Textbook**: [Carlson, N. R. & Birkett, M. A. (2017). *Physiology of Behavior*, Edition 12. Pearson.](https://www.amazon.com/gp/offer-listing/0134080912/ref=dp_olp_rentals?ie=UTF8&f_rental=true)
