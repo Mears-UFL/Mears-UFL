@@ -35,7 +35,7 @@ caption = "Neural Integration Networks"
 
 +++
 
-Conscious awareness, a hallmark of human experience, is like the exposed tip-of-the-iceberg compared to the concealed, unconscious processes of the brain. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.
+Conscious awareness is a hallmark of human experience. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.
 
 **Relevant topics will include**:  
 &#8226; *anesthesia*  &#8226; *coma*  &#8226; *dreams*  

@@ -48,7 +48,7 @@ My objective is to help students to develop skills, knowledge frameworks, and qu
 
 > What is the difference between merely knowing (or remembering, or memorizing) and understanding? … A thing or idea seems meaningful only when we have several different ways to represent it–different perspectives and different associations. Then we can turn it around in our minds...[^1]
 
-Sensory-perceptual neuroscience requires one to rediscover and to reframe the constraints and features of one's own perceptual reality. Experiencing sensory-perceptual phenomena while learning neurobiology and neurophysiology of these phenomena will allow neuroscience students to understand the brain circuitry, systems, and dynamic mechanisms of sensory-perceptual phenomena. Metaperceptual threshold knowledge leads to development of a neurobiological self-concept and self-understanding.  
+Sensory-perceptual neuroscience requires one to rediscover and to reframe the constraints and features of one's own perceptual reality. Experiencing sensory-perceptual phenomena while learning neurobiology and neurophysiology of these phenomena will allow neuroscience students to understand the brain circuitry, systems, and dynamic mechanisms of sensory-perceptual phenomena. Metaperceptual knowledge leads to development of a neurobiological self-concept and self-understanding.  
 
 [^1]: Minsky, M. (1981). Music, Mind, and Meaning. *Computer Music Journal, 5*, 28-44.
 
