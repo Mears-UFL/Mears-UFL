@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Perception on Ryan P. Mears, Ph.D.</title>
-    <link>https://mears-ufl.netlify.com/tags/perception/</link>
+    <link>/tags/perception/</link>
     <description>Recent content in Perception on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     
-	<atom:link href="https://mears-ufl.netlify.com/tags/perception/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/perception/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neuroscience of Consciousness (PSB 4934)</title>
-      <link>https://mears-ufl.netlify.com/courses_taught/nsci-ncc/</link>
+      <link>/courses_taught/nsci-ncc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses_taught/nsci-ncc/</guid>
+      <guid>/courses_taught/nsci-ncc/</guid>
       <description>Conscious awareness is a hallmark of human experience. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.
 Relevant topics will include:
 &amp;#8226; anesthesia &amp;#8226; coma &amp;#8226; dreams
@@ -25,10 +25,10 @@ Relevant topics will include:
     
     <item>
       <title>Physiological &amp; Comparative Psychology (PSB 6099)</title>
-      <link>https://mears-ufl.netlify.com/courses_taught/grad-survey/</link>
+      <link>/courses_taught/grad-survey/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses_taught/grad-survey/</guid>
+      <guid>/courses_taught/grad-survey/</guid>
       <description>Date &amp;amp; Time: Monday, 1:55 - 2:45 PM (7-9 periods)
 Location: 113 Keene-Flint Hall (FLI) 
 Textbook: Carlson, N. R. &amp;amp; Birkett, M. A. (2017). Physiology of Behavior, Edition 12. Pearson.</description>
@@ -36,20 +36,20 @@ Textbook: Carlson, N. R. &amp;amp; Birkett, M. A. (2017). Physiology of Behavior
     
     <item>
       <title>Sensory Processes (EXP 3104)</title>
-      <link>https://mears-ufl.netlify.com/courses_taught/sens-proc/</link>
+      <link>/courses_taught/sens-proc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses_taught/sens-proc/</guid>
+      <guid>/courses_taught/sens-proc/</guid>
       <description>This course is an introductory survey of the human senses and their role in perception. A goal of this course is to appreciate that our sensorium receives something different from our resultant awareness and reactions to the world around us. Distributed over and throughout the body, diverse physical sensor arrays receive and transduce signals into neural information. In the pathways of the brain, expansive and hierarchical decoding processes follow the initial sensory encoding.</description>
     </item>
     
     <item>
       <title>Sensory Processes Laboratory (EXP 4174C)</title>
-      <link>https://mears-ufl.netlify.com/courses_taught/sens-proc-lab/</link>
+      <link>/courses_taught/sens-proc-lab/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses_taught/sens-proc-lab/</guid>
-      <description>This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment Designing and conducting their replication experiment, students will collect behavioral data, and grapple with producing tables, visualizations, and inferential statistics in order to compare data with experimental results from the original research.</description>
+      <guid>/courses_taught/sens-proc-lab/</guid>
+      <description>This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. Beginning the course, we develop basic literacy using R in the DataCamp learning environment. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment.</description>
     </item>
     
   </channel>

@@ -35,7 +35,7 @@ caption = "Distance Scaling"
 
 +++
 
-This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment Designing and conducting their replication experiment, students will collect behavioral data, and grapple with producing tables, visualizations, and inferential statistics in order to compare data with experimental results from the original research. In the end, students will judge similarities and differences between the methods and results of their own replication experiment in comparison to the published experiment. In order to apply methods of scientific communication, students will summarize results and experiences, do lab write-ups, present data talks, and write a final paper.
+This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. Beginning the course, we develop basic literacy using R in the [DataCamp](https://www.datacamp.com/)  learning environment. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment. Designing and conducting their replication experiment, students collect behavioral data, and grapple with producing tables, visualizations, and inferential statistics in order to compare data with experimental results from the original research. In the end, students judge similarities and differences between the methods and results of their own replication experiment in comparison to the published experiment. In order to apply methods of scientific communication, students summarize results and experiences, do lab write-ups, present data talks, and write a final paper.
 
 
 **Date & Time**: Tuesday & Thursday, 9:35 - 11:30 AM (3-4 periods)
@@ -43,3 +43,36 @@ This semester students will gain hands-on experience in the techniques and proce
 **Location**: [191 Psychology Building (PSY) ](http://campusmap.ufl.edu/#/index/0749)
 
 **Textbook**: [Peirce, J., & MacAskill, M. (2018). *Building Experiments in PsychoPy*. SAGE.](https://www.amazon.com/Building-Experiments-PsychoPy-Jonathan-Peirce-ebook/dp/B0785L5MJD/ref=mt_kindle?_encoding=UTF8&me=&qid=1530547460)
+
+
+<h3><strong>Tools We Use</strong></h3>
+
+<table>
+<th>
+<a href="https://www.rstudio.com/" rel="RStudio">RStudio</a>
+</th>
+<th>
+<a href="https://www.datacamp.com/home" rel="DataCamp">DataCamp</a>
+</th>
+<th>
+<a href="http://www.psychopy.org/" rel="PsychoPy">PsychoPy</a>
+</th>
+<th>
+<a href="https://pavlovia.org/" rel="Pavlovia" >Pavlovia</a>
+</th>
+<tbody>
+<td>
+<div href="https://www.rstudio.com/" rel="RStudio" id="logodiv" style="height:50px; width:100px;"> <img src="/img/RStudio-Logo-Blue-Gray-125.png" alt="RStudio" /> </div> 
+</td>
+<td>
+<div href="https://www.datacamp.com/home" rel="DataCamp" id="logodiv" style="height:50px; width:150px;"> <img src="/img/datacamp_logo.png" alt="DataCamp" /> </div> 
+</td>
+<td>
+<div href="http://www.psychopy.org/" rel="PsychoPy" id="logodiv" style="height:50px; width:150px;"> <img src="/img/psychopyDocBanner2.gif" alt="PsychoPy"/> </div>
+</td>
+<td>
+<div href="https://pavlovia.org/" rel="Pavlovia" id="logodiv" style="height:50px; width:50px;"> <img src="/img/pavlovia_logo_blue.svg"alt="Pavlovia"/> </div> 
+</td>
+
+</tbody>
+</table>
