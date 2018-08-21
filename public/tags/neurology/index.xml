@@ -2,21 +2,28 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Neurology on Ryan P. Mears, Ph.D.</title>
-    <link>/tags/neurology/</link>
+    <link>https://mears-ufl.netlify.com/tags/neurology/</link>
     <description>Recent content in Neurology on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     
-	<atom:link href="/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mears-ufl.netlify.com/tags/neurology/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neuroscience of Consciousness (PSB 4934)</title>
+<<<<<<< HEAD
       <link>/courses/psb4934/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/psb4934/</guid>
+=======
+      <link>https://mears-ufl.netlify.com/courses_taught/nsci-ncc/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mears-ufl.netlify.com/courses_taught/nsci-ncc/</guid>
+>>>>>>> 123aa663ae15db40c8259118412e194c6505d412
       <description>Conscious awareness is a hallmark of human experience. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.
 Relevant topics will include:
 &amp;#8226; anesthesia &amp;#8226; coma &amp;#8226; dreams
