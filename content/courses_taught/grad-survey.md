@@ -35,7 +35,7 @@ caption = "Neural Integration Networks"
 
 +++
 
-**Date & Time**: Monday, 1:55 - 2:45 PM (7-9 periods)
+**Date & Time**: Monday, 1:55 - 4:55 PM (7-9 periods)
 
 **Location**: [113 Keene-Flint Hall (FLI) ](http://campusmap.ufl.edu/#/index/0008)
 
