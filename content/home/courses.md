@@ -1,6 +1,6 @@
 +++
 # courses taught widget.
-widget = "courses_taught"
+widget = "courses"
 active = true
 date = 2018-06-26T00:00:00
 
@@ -14,7 +14,7 @@ weight = 4
 # Content.
 # Display content from the following folder.
 # For example, `folder = "project"` displays content from `content/project/`.
-folder = "courses_taught"
+folder = "courses"
 
 # List format.
 #   0 = Simple
