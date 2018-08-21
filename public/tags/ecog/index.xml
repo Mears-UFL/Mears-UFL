@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ECoG on Ryan P. Mears, Ph.D.</title>
-    <link>/tags/ecog/</link>
+    <link>https://mears-ufl.netlify.com/tags/ecog/</link>
     <description>Recent content in ECoG on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Tue, 19 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/ecog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mears-ufl.netlify.com/tags/ecog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neuroscience of Consciousness (PSB 4934)</title>
-      <link>/courses_taught/nsci-ncc/</link>
+      <link>https://mears-ufl.netlify.com/courses_taught/nsci-ncc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/courses_taught/nsci-ncc/</guid>
+      <guid>https://mears-ufl.netlify.com/courses_taught/nsci-ncc/</guid>
       <description>Conscious awareness is a hallmark of human experience. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.
 Relevant topics will include:
 &amp;#8226; anesthesia &amp;#8226; coma &amp;#8226; dreams
@@ -26,10 +26,10 @@ Relevant topics will include:
     
     <item>
       <title>Translational Neurophysiology</title>
-      <link>/project/sensory-gating/</link>
+      <link>https://mears-ufl.netlify.com/project/sensory-gating/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/sensory-gating/</guid>
+      <guid>https://mears-ufl.netlify.com/project/sensory-gating/</guid>
       <description>Much work has been done to explore sensory gating in human and animal subjects, yet fewer efforts have been made to apply a rigorous framework to translate findings in preclinical and clinical investigations of sensory gating. A significant obstacle to comparison is the number of the systems of the brain that display sensory gating. Initial discovery of sensory gating of event-related potentials (ERP) in humans corresponded to generators in auditory cortex.</description>
     </item>
     
