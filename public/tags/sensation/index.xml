@@ -2,28 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sensation on Ryan P. Mears, Ph.D.</title>
-    <link>https://mears-ufl.netlify.com/tags/sensation/</link>
+    <link>/tags/sensation/</link>
     <description>Recent content in Sensation on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     
-	<atom:link href="https://mears-ufl.netlify.com/tags/sensation/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/sensation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Physiological &amp; Comparative Psychology (PSB 6099)</title>
-<<<<<<< HEAD
       <link>/courses/psb6099/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/psb6099/</guid>
-=======
-      <link>https://mears-ufl.netlify.com/courses_taught/grad-survey/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mears-ufl.netlify.com/courses_taught/grad-survey/</guid>
->>>>>>> 123aa663ae15db40c8259118412e194c6505d412
       <description>Date &amp;amp; Time: Monday, 1:55 - 4:55 PM (7-9 periods)
 Location: 113 Keene-Flint Hall (FLI) 
 Textbook: Carlson, N. R. &amp;amp; Birkett, M. A. (2017). Physiology of Behavior, Edition 12. Pearson.</description>
@@ -31,33 +24,19 @@ Textbook: Carlson, N. R. &amp;amp; Birkett, M. A. (2017). Physiology of Behavior
     
     <item>
       <title>Sensory Processes (EXP 3104)</title>
-<<<<<<< HEAD
       <link>/courses/exp3104/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/exp3104/</guid>
-=======
-      <link>https://mears-ufl.netlify.com/courses_taught/sens-proc/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mears-ufl.netlify.com/courses_taught/sens-proc/</guid>
->>>>>>> 123aa663ae15db40c8259118412e194c6505d412
       <description>This course is an introductory survey of the human senses and their role in perception. A goal of this course is to appreciate that our sensorium receives something different from our resultant awareness and reactions to the world around us. Distributed over and throughout the body, diverse physical sensor arrays receive and transduce signals into neural information. In the pathways of the brain, expansive and hierarchical decoding processes follow the initial sensory encoding.</description>
     </item>
     
     <item>
       <title>Sensory Processes Laboratory (EXP 4174C)</title>
-<<<<<<< HEAD
       <link>/courses/exp4174c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/courses/exp4174c/</guid>
-=======
-      <link>https://mears-ufl.netlify.com/courses_taught/sens-proc-lab/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://mears-ufl.netlify.com/courses_taught/sens-proc-lab/</guid>
->>>>>>> 123aa663ae15db40c8259118412e194c6505d412
       <description>This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. Beginning the course, we develop basic literacy using R in the DataCamp learning environment. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment.</description>
     </item>
     

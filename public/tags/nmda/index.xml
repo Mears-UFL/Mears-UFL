@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>NMDA on Ryan P. Mears, Ph.D.</title>
-    <link>https://mears-ufl.netlify.com/tags/nmda/</link>
+    <link>/tags/nmda/</link>
     <description>Recent content in NMDA on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Wed, 20 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://mears-ufl.netlify.com/tags/nmda/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/nmda/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sensory processing in altered states</title>
-      <link>https://mears-ufl.netlify.com/project/oscillations/</link>
+      <link>/project/oscillations/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/project/oscillations/</guid>
+      <guid>/project/oscillations/</guid>
       <description></description>
     </item>
     
