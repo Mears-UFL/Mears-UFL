@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reproducibility on Ryan P. Mears, Ph.D.</title>
-    <link>/tags/reproducibility/</link>
+    <link>https://mears-ufl.netlify.com/tags/reproducibility/</link>
     <description>Recent content in Reproducibility on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Mon, 25 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mears-ufl.netlify.com/tags/reproducibility/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Sensory Processes Laboratory (EXP 4174C)</title>
-      <link>/courses/exp4174c/</link>
+      <link>https://mears-ufl.netlify.com/courses/exp4174c/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/courses/exp4174c/</guid>
+      <guid>https://mears-ufl.netlify.com/courses/exp4174c/</guid>
       <description>This semester students will gain hands-on experience in the techniques and procedures of perceptual psychophysics and psychology research. Activities in the lab will challenge students to think carefully and critically about every aspect of the research process in order to understand benefits and limitations of the scientific method in psychological research. Beginning the course, we develop basic literacy using R in the DataCamp learning environment. After completing a progression of small assignments involving data manipulation, students conduct instructor-supervised group projects to replicate a previously published sensory processes experiment.</description>
     </item>
     
     <item>
       <title>Open Science</title>
-      <link>/project/open-science/</link>
+      <link>https://mears-ufl.netlify.com/project/open-science/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/project/open-science/</guid>
+      <guid>https://mears-ufl.netlify.com/project/open-science/</guid>
       <description></description>
     </item>
     

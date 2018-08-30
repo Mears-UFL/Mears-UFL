@@ -2,184 +2,184 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Ryan P. Mears, Ph.D.</title>
-    <link>/tags/</link>
+    <link>https://mears-ufl.netlify.com/tags/</link>
     <description>Recent content in Tags on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 -0500</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mears-ufl.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>/tags/academic/</link>
+      <link>https://mears-ufl.netlify.com/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 -0500</pubDate>
       
-      <guid>/tags/academic/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>Circuits</title>
-      <link>/tags/circuits/</link>
+      <link>https://mears-ufl.netlify.com/tags/circuits/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/circuits/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/circuits/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ECoG</title>
-      <link>/tags/ecog/</link>
+      <link>https://mears-ufl.netlify.com/tags/ecog/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/ecog/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/ecog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>FMRI</title>
-      <link>/tags/fmri/</link>
+      <link>https://mears-ufl.netlify.com/tags/fmri/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/fmri/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/fmri/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LFP</title>
-      <link>/tags/lfp/</link>
+      <link>https://mears-ufl.netlify.com/tags/lfp/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/lfp/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/lfp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>NMDA</title>
-      <link>/tags/nmda/</link>
+      <link>https://mears-ufl.netlify.com/tags/nmda/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/nmda/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/nmda/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neural Systems</title>
-      <link>/tags/neural-systems/</link>
+      <link>https://mears-ufl.netlify.com/tags/neural-systems/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/neural-systems/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/neural-systems/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Neurology</title>
-      <link>/tags/neurology/</link>
+      <link>https://mears-ufl.netlify.com/tags/neurology/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/neurology/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/neurology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Science</title>
-      <link>/tags/open-science/</link>
+      <link>https://mears-ufl.netlify.com/tags/open-science/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/open-science/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/open-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Perception</title>
-      <link>/tags/perception/</link>
+      <link>https://mears-ufl.netlify.com/tags/perception/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/perception/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/perception/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Psychophysics</title>
-      <link>/tags/psychophysics/</link>
+      <link>https://mears-ufl.netlify.com/tags/psychophysics/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/psychophysics/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/psychophysics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Replicability</title>
-      <link>/tags/replicability/</link>
+      <link>https://mears-ufl.netlify.com/tags/replicability/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/replicability/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/replicability/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducibility</title>
-      <link>/tags/reproducibility/</link>
+      <link>https://mears-ufl.netlify.com/tags/reproducibility/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/reproducibility/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/reproducibility/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reproducible Research</title>
-      <link>/tags/reproducible-research/</link>
+      <link>https://mears-ufl.netlify.com/tags/reproducible-research/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/reproducible-research/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/reproducible-research/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensation</title>
-      <link>/tags/sensation/</link>
+      <link>https://mears-ufl.netlify.com/tags/sensation/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/tags/sensation/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/sensation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensory-Gating</title>
-      <link>/tags/sensory-gating/</link>
+      <link>https://mears-ufl.netlify.com/tags/sensory-gating/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/sensory-gating/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/sensory-gating/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Single-Units</title>
-      <link>/tags/single-units/</link>
+      <link>https://mears-ufl.netlify.com/tags/single-units/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/single-units/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/single-units/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Translational-Neuroscience</title>
-      <link>/tags/translational-neuroscience/</link>
+      <link>https://mears-ufl.netlify.com/tags/translational-neuroscience/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/translational-neuroscience/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/translational-neuroscience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Transparency</title>
-      <link>/tags/transparency/</link>
+      <link>https://mears-ufl.netlify.com/tags/transparency/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>/tags/transparency/</guid>
+      <guid>https://mears-ufl.netlify.com/tags/transparency/</guid>
       <description></description>
     </item>
     
