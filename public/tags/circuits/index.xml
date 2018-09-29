@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Circuits on Ryan P. Mears, Ph.D.</title>
-    <link>https://mears-ufl.netlify.com/tags/circuits/</link>
+    <link>/tags/circuits/</link>
     <description>Recent content in Circuits on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Wed, 20 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://mears-ufl.netlify.com/tags/circuits/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/circuits/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Neuroscience of Consciousness (PSB 4934)</title>
-      <link>https://mears-ufl.netlify.com/courses/psb4934/</link>
+      <link>/courses/psb4934/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses/psb4934/</guid>
+      <guid>/courses/psb4934/</guid>
       <description>Conscious awareness is a hallmark of human experience. In this class we will consider cutting edge research of brain mechanisms and neural signs as we discuss abnormal, altered, disrupted, and non-human consciousness. As a result of this class, we will have a better understanding of the potential function of consciousness and be able to differentiate conscious from unconscious processes.
 Relevant topics will include:
 &amp;#8226; anesthesia &amp;#8226; coma &amp;#8226; dreams
@@ -26,10 +26,10 @@ Relevant topics will include:
     
     <item>
       <title>Physiological &amp; Comparative Psychology (PSB 6099)</title>
-      <link>https://mears-ufl.netlify.com/courses/psb6099/</link>
+      <link>/courses/psb6099/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses/psb6099/</guid>
+      <guid>/courses/psb6099/</guid>
       <description>Date &amp;amp; Time: Monday, 1:55 - 4:55 PM (7-9 periods)
 Location: 113 Keene-Flint Hall (FLI) 
 Textbook: Carlson, N. R. &amp;amp; Birkett, M. A. (2017). Physiology of Behavior, Edition 12. Pearson.</description>
@@ -37,28 +37,28 @@ Textbook: Carlson, N. R. &amp;amp; Birkett, M. A. (2017). Physiology of Behavior
     
     <item>
       <title>Sensory Processes (EXP 3104)</title>
-      <link>https://mears-ufl.netlify.com/courses/exp3104/</link>
+      <link>/courses/exp3104/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/courses/exp3104/</guid>
+      <guid>/courses/exp3104/</guid>
       <description>This course is an introductory survey of the human senses and their role in perception. A goal of this course is to appreciate that our sensorium receives something different from our resultant awareness and reactions to the world around us. Distributed over and throughout the body, diverse physical sensor arrays receive and transduce signals into neural information. In the pathways of the brain, expansive and hierarchical decoding processes follow the initial sensory encoding.</description>
     </item>
     
     <item>
       <title>Sensory processing in altered states</title>
-      <link>https://mears-ufl.netlify.com/project/oscillations/</link>
+      <link>/project/oscillations/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/project/oscillations/</guid>
+      <guid>/project/oscillations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Translational Neurophysiology</title>
-      <link>https://mears-ufl.netlify.com/project/sensory-gating/</link>
+      <link>/project/sensory-gating/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/project/sensory-gating/</guid>
+      <guid>/project/sensory-gating/</guid>
       <description>Much work has been done to explore sensory gating in human and animal subjects, yet fewer efforts have been made to apply a rigorous framework to translate findings in preclinical and clinical investigations of sensory gating. A significant obstacle to comparison is the number of the systems of the brain that display sensory gating. Initial discovery of sensory gating of event-related potentials (ERP) in humans corresponded to generators in auditory cortex.</description>
     </item>
     

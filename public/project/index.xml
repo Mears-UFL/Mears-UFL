@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ryan P. Mears, Ph.D.</title>
-    <link>https://mears-ufl.netlify.com/project/</link>
+    <link>/project/</link>
     <description>Recent content in Projects on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Mon, 25 Jun 2018 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://mears-ufl.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Open Science</title>
-      <link>https://mears-ufl.netlify.com/project/open-science/</link>
+      <link>/project/open-science/</link>
       <pubDate>Mon, 25 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/project/open-science/</guid>
+      <guid>/project/open-science/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sensory processing in altered states</title>
-      <link>https://mears-ufl.netlify.com/project/oscillations/</link>
+      <link>/project/oscillations/</link>
       <pubDate>Wed, 20 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/project/oscillations/</guid>
+      <guid>/project/oscillations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Translational Neurophysiology</title>
-      <link>https://mears-ufl.netlify.com/project/sensory-gating/</link>
+      <link>/project/sensory-gating/</link>
       <pubDate>Tue, 19 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/project/sensory-gating/</guid>
+      <guid>/project/sensory-gating/</guid>
       <description>Much work has been done to explore sensory gating in human and animal subjects, yet fewer efforts have been made to apply a rigorous framework to translate findings in preclinical and clinical investigations of sensory gating. A significant obstacle to comparison is the number of the systems of the brain that display sensory gating. Initial discovery of sensory gating of event-related potentials (ERP) in humans corresponded to generators in auditory cortex.</description>
     </item>
     

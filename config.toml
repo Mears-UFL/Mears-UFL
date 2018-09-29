@@ -62,7 +62,7 @@ enableGitInfo = false
   organizations = [ { name = "University of Florida", url = "http://www.ufl.edu/" } ]
 
   #gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "profile_pic.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Mears.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   #email = "mears at ufl dot edu"
   #address = "114 Psychology Building, University of Florida, Gainesville, FL, 32610, USA"
   #office_hours = "Monday 10:00 to 13:00 or email for appointment"
@@ -277,7 +277,7 @@ enableGitInfo = false
 [[menu.main]]
   name = "Teaching"
   url = "#courses"
-  weight = 35
+  weight = 5
   
 #[[menu.main]]
 #  name = "Posts"

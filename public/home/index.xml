@@ -2,105 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Ryan P. Mears, Ph.D.</title>
-    <link>https://mears-ufl.netlify.com/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Ryan P. Mears, Ph.D.</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018 Ryan P. Mears</copyright>
     <lastBuildDate>Thu, 20 Apr 2017 00:00:00 -0400</lastBuildDate>
     
-	<atom:link href="https://mears-ufl.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://mears-ufl.netlify.com/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>My objective is to help students to develop skills, knowledge frameworks, and quantitative and scientific literacy that will be useful in their future careers. These abilities will enable students to address complex issues effectively and to develop abilities to ask meaningful questions that help solve important scientific problems.
  What is the difference between merely knowing (or remembering, or memorizing) and understanding? … A thing or idea seems meaningful only when we have several different ways to represent it–different perspectives and different associations.</description>
     </item>
     
     <item>
       <title>Academic</title>
-      <link>https://mears-ufl.netlify.com/home/hero/</link>
+      <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/hero/</guid>
+      <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://mears-ufl.netlify.com/home/courses/</link>
+      <link>/home/courses/</link>
       <pubDate>Tue, 26 Jun 2018 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/courses/</guid>
+      <guid>/home/courses/</guid>
       <description>I am a Lecturer for the following University of Florida courses:</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://mears-ufl.netlify.com/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Publications</title>
-      <link>https://mears-ufl.netlify.com/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://mears-ufl.netlify.com/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://mears-ufl.netlify.com/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://mears-ufl.netlify.com/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tags</title>
-      <link>https://mears-ufl.netlify.com/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://mears-ufl.netlify.com/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Thu, 20 Apr 2017 00:00:00 -0400</pubDate>
       
-      <guid>https://mears-ufl.netlify.com/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
